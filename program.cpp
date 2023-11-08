@@ -1,3 +1,11 @@
+/**
+
+The provided source code is a program that generates and iterates through all possible byte combinations. It calculates the SHA-256 hash value for each combination and keeps track of the smallest hash value found along with the corresponding byte sequence.
+
+**/    
+
+
+
 #include <iostream>
 #include <iomanip>
 #include <vector>
